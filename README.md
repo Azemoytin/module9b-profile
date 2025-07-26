@@ -13,4 +13,4 @@ Getting the image to look right was tricky at first, but I finally got it with s
 
 
 ## Screenshot
-![Uploading Screenshot 2025-07-26 at 2.54.30 PM.png…]()
+[Uploading Screenshot 2025-07-26 at 2.54.30 PM.zip…]()
