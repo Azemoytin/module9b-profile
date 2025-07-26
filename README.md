@@ -9,7 +9,7 @@ This is a React app built with Vite. It contains a profile component styled with
 - How to create and render functional components
 
 ## Challenges
-Getting the image to look right was tricky at first, but I finally got it how I wanted it with some style changes.
+Getting the image to look right was tricky at first, but I finally got it with some style changes.
 
 
 ## Screenshot
